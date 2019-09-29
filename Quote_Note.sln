@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quote_Note", "Quote_Note\Qu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quote_Note_Library", "Quote_Note_Library\Quote_Note_Library.csproj", "{AA977B5D-9E61-4C5A-ADCD-3A9177DE0E9C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StaticImages", "StaticImages", "{85F16C94-F579-4241-B38F-E0072C35D332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
