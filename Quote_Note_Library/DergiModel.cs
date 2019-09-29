@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quote_Note_Library
 {
-    public class Class1
+    class DergiModel
     {
     }
 }
