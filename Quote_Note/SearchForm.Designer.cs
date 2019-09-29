@@ -1,6 +1,6 @@
 ﻿namespace Quote_Note
 {
-    partial class Form1
+    partial class SearchForm
     {
         /// <summary>
         /// Required designer variable.
